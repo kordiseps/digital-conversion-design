@@ -1,6 +1,6 @@
 # Digital Conversion System Design
 GIB  (Gelir Idaresi Baskaligi) integration system design.
-Details soon.
+Details soon...
 
 ## Author(s) - Contributor(s)
 
